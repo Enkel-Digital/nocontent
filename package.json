@@ -1,0 +1,24 @@
+{
+  "name": "nocontent",
+  "version": "1.0.0",
+  "description": "Simple request route handler for ignoring certain requests to respond with a 204 no content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enkel-Digital/nocontent.git"
+  },
+  "keywords": [
+    "favicon",
+    "express",
+    "middleware"
+  ],
+  "author": "JJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Enkel-Digital/nocontent/issues"
+  },
+  "homepage": "https://github.com/Enkel-Digital/nocontent#readme"
+}
